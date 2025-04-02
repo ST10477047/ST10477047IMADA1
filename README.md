@@ -24,6 +24,8 @@ The purpose of the app is help users decide what to eat based on the time of day
 - Has a clear/reset button that resets input and output 
 ## Screenshots
 -Home Screen
+
+
 ![image](https://github.com/user-attachments/assets/a26b3daa-143d-480c-ac7c-dd5f08950e06)
 
 
