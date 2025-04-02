@@ -28,6 +28,11 @@ The purpose of the app is help users decide what to eat based on the time of day
 
 ![image](https://github.com/user-attachments/assets/a26b3daa-143d-480c-ac7c-dd5f08950e06)
 
+-Input and output (App in Action)
+
+
+![image](https://github.com/user-attachments/assets/b8e02351-88cc-4377-ab31-cc065babb0bd)
+
 
 ## GitHub Utilization 
 I used GitHub to upoad and save my code, i also used GitHub so that my teacher can access my code 
