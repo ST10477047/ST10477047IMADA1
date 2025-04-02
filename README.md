@@ -33,6 +33,18 @@ The purpose of the app is help users decide what to eat based on the time of day
 
 ![image](https://github.com/user-attachments/assets/b8e02351-88cc-4377-ab31-cc065babb0bd)
 
+-ResetButton
+
+![image](https://github.com/user-attachments/assets/8709f366-443f-4c71-91e0-4fdb19b92370)
+
+-Generating Suggestion Text
+
+![image](https://github.com/user-attachments/assets/cd5fb116-6480-4fd7-89a9-7e36ad47e0d1)
+
+-Error Message 
+
+
+![image](https://github.com/user-attachments/assets/fdc800c8-0d5f-4ffe-b621-63a7f73e304d)
 
 ## GitHub Utilization 
 I used GitHub to upoad and save my code, i also used GitHub so that my teacher can access my code 
