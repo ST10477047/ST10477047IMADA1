@@ -1,6 +1,5 @@
 # ST10477047 Dean Barnard
 # IMAD Assignment 1 App
-A brief description of what this project does and who it's for
 
 
 ## Github Repository Link
