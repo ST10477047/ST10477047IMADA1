@@ -46,14 +46,14 @@ The purpose of the app is help users decide what to eat based on the time of day
 ![image](https://github.com/user-attachments/assets/fdc800c8-0d5f-4ffe-b621-63a7f73e304d)
 
 ## GitHub Utilization 
-I used GitHub to upoad and save my code, i also used GitHub so that my teacher can access my code 
+I used GitHub to upload and save my code, i also used GitHub so that my teacher can access my code 
 ## GitHub Actions 
 I used GitHub Actions to test the code of the app once it was pushed to GitHub, if the test passed then i knew it was safe to merge and if it failed i would see errors so that i could fix it 
 ## Installation 
-- Open the Github link and download the file
+- Open the GitHub link and download the file
 - Extract the code to any folder on your desktop
 - Open the file in android studio
-- Wait for everything to finnish sycning 
+- Wait for everything to finnish syncing 
 - Select a device on the emulator 
-- Click the greenbutton with an arrow to run the app
-- Then wait as the app builds and lauches automatically 
+- Click the green button with an arrow to run the app
+- Then wait as the app builds and launches automatically 
